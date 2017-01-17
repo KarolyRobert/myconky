@@ -1,2 +1,3 @@
 # myconky
-Saját rendszermonitor Archlinux desktopon conky és lua segítségével.
+Saját rendszermonitor Archlinux desktop-on conky és lua segítségével.
+Gyakorlás képpen.
